@@ -2,3 +2,4 @@ pip
 git+git://github.com/Rapptz/discord.py.git#egg=discord.py[voice]
 youtube_dl
 imgurpython
+certifi>=2022.12.7 # not directly required, pinned by Snyk to avoid a vulnerability
